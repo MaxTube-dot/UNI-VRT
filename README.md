@@ -9,6 +9,7 @@
 ## Скринкаст
 
 ![train_batch2521](https://github.com/MaxTube-dot/UNI-VRT/assets/77248114/5ae476f0-8f10-4c87-9b62-42aa55d7670f)
+![train_batch2521](https://github.com/MaxTube-dot/Asserts/blob/master/ezgif.com-resize.gif)
 
 
 ## Архитектура решения
