@@ -8,9 +8,12 @@
 
 ## Скринкаст
 
+![train_batch2521](https://github.com/MaxTube-dot/UNI-VRT/assets/77248114/5ae476f0-8f10-4c87-9b62-42aa55d7670f)
 
-##Архитектура решения
 
+## Архитектура решения
+
+![image](https://github.com/MaxTube-dot/UNI-VRT/assets/77248114/042f71fa-a623-4673-9565-018d5c22985f)
 
 
 ## Используемые технологии
@@ -46,8 +49,8 @@
 
 Проект разработан командой разработчиков:
 
-- Левин Илья - Full-stack C# developer
-- Фарафонов Андрей - Full-stack developer, ML engineer
-- Меркулов Андрей - Python developer
-- Паневин Даниил - Product Designer, Manager
+- [Левин Илья](https://github.com/MaxTube-dot "Левин Илья") - Full-stack  C# developer
+- [Фарафонов Андрей](https://github.com/andreifarafonow "Фарафонов Андрей") - Full-stack  developer, ML engineer
+- [Меркулов Андрей](https://github.com/Dead-CLu8ku "Меркулов Андрей") -  Python developer
+- [Паневин Даниил](https://www.behance.net/daniilpanevin "Паневин Даниил") - Product Designer, Manager
 
